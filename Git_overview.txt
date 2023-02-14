@@ -1,0 +1,15 @@
+step1.  Create repositery folder as per your choice name 
+     create one folder  in laptop same repositery name
+     right click folder and click on git bash 	
+     copy command from repositery and past in  git bash
+    after successfull done above activity place any folder in  local git folder
+
+ step2. git status    --for cecking 
+       git add "HCK/"  --- hck is foder
+	   
+git commit -m "Hackerrank_practice" -- in cotation display amsg
+
+ git pull
+ 
+ git push  ---- for uploading folderin git
+ 
